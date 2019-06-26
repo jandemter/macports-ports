@@ -92,7 +92,7 @@ subport gnss-sdr-next {
     checksums           rmd160 46898bc4a87d798c1a47cbfb85036d4b36827a99 \
                         sha256 ca95a235a6dd272893389ba88b1735cbc1d112b341f7a6e118eab597abbbf33b \
                         size   3689766
-    revision            0
+    revision            1
 
     conflicts           gnss-sdr gnss-sdr-devel
 
